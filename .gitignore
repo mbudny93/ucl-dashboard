@@ -28,3 +28,10 @@ hs_err_pid*
 *.iml
 target
 mvn*
+
+.classpath
+.factorypath
+.project
+.settings
+
+node_modules

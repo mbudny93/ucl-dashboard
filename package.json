@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "node-sass": "^6.0.0"
+  },
+  "dependencies": {
+    "react-minimal-pie-chart": "^8.2.0"
+  }
+}
