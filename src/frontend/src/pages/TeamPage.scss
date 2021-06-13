@@ -1,3 +1,9 @@
+.go-home-link {
+    align-self: left;
+    justify-self: left;
+    font-size: 2rem;
+}
+
 .TeamPage {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -6,7 +12,7 @@
     grid-row-gap: 10px;
 
     .team-name-section {
-        grid-column: span 3;
+        grid-column: span 2;
         justify-self: start;
         align-self: end;
     }
